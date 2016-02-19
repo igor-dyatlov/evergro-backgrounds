@@ -25,4 +25,5 @@ Run in the console:
 https://www.paypal.me/IgorDyatlov 
 
 ### License
-All files in this project are under the [LICENSE.md](LICENSE.md) license unless otherwise stated in the file or by a dependency's license file.
+
+The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0](LICENSE.md) license, and the underlying source code used to format and display that content is licensed under the [MIT License](LICENSE.md).

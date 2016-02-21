@@ -10,26 +10,28 @@
         <scolor>#000000</scolor>
 	</wallpaper>
 	<wallpaper deleted="false">
-		<name></name>
-		<name xml:lang="ru"></name>
-		<filename>/usr/share/backgrounds/evergro/.jpg</filename>
+		<name>Tukan</name>
+		<name xml:lang="ru">Тукан</name>
+		<filename>/usr/share/backgrounds/evergro/Tukan.jpg</filename>
 		<options>zoom</options>
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>
+	
 	<wallpaper deleted="false">
-		<name></name>
-		<name xml:lang="ru"></name>
-		<filename>/usr/share/backgrounds/evergro/.jpg</filename>
-		<options>zoom</options>
+	<name>White tiger</name>
+	<name xml:lang="ru">Белый тигр</name>
+	<filename>/usr/share/backgrounds/evergro/White-Tiger.jpg</filename>
+	<options>zoom</options>
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>
+	
 	<wallpaper deleted="false">
-		<name></name>
-		<name xml:lang="ru"></name>
-		<filename>/usr/share/backgrounds/evergro/.jpg</filename>
-		<options>zoom</options>
+	<name>Wind farm</name>
+	<name xml:lang="ru">Ветряная ферма</name>
+	<filename>/usr/share/backgrounds/evergro/Wind-Farm.jpg</filename>
+	<options>zoom</options>
         <pcolor>#ffffff</pcolor>
         <scolor>#000000</scolor>
 	</wallpaper>	

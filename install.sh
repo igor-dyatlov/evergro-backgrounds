@@ -1,4 +1,4 @@
 #!/bin/bash
 
     cp -Ri Evergro /usr/share/backgrounds
-    cp evergro-backgrounds.xml /usr/share/
+    cp -Ri evergro-backgrounds.xml /usr/share/gnome-background-properties

@@ -1,0 +1,14 @@
+Source: evergro-backgrounds
+Section: x11
+Priority: optional
+Maintainer: Igor Dyatlov <dyatlov.igor@gmail.com>
+Homepage: https://github.com/igor-dyatlov/evergro-backgrounds
+Build-Depends: debhelper (>= 9),
+        libglib2.0-dev (>= 2.48.0),
+        meson (>= 0.40)
+Standards-Version: 4.1.1
+
+Package: evergro-backgrounds
+Architecture: all
+Description: Evergro Backgrounds
+ A wallpaper collection from Igor Dyatlov.

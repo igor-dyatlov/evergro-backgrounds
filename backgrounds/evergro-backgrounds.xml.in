@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+        <name>Dragonfly</name>
+        <name xml:lang="ru">Стрекоза</name>
+        <filename>@BACKGROUNDDIR@/Dragonfly.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Forest Falls</name>
+        <name xml:lang="ru">Лесной водопад</name>
+        <filename>@BACKGROUNDDIR@/Forest-Falls.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Iguana</name>
+        <name xml:lang="ru">Игуана</name>
+        <filename>@BACKGROUNDDIR@/Iguana.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>River</name>
+        <name xml:lang="ru">Река</name>
+        <filename>@BACKGROUNDDIR@/River.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Snow Leopard</name>
+        <name xml:lang="ru">Снежный леопард</name>
+        <filename>@BACKGROUNDDIR@/Snow-Leopard.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Spider</name>
+        <name xml:lang="ru">Паук</name>
+        <filename>@BACKGROUNDDIR@/Spider.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Stone Beach</name>
+        <name xml:lang="ru">Каменный пляж</name>
+        <filename>@BACKGROUNDDIR@/Stone-Beach.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Tukan</name>
+        <name xml:lang="ru">Тукан</name>
+        <filename>@BACKGROUNDDIR@/Tukan.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>White Tiger</name>
+        <name xml:lang="ru">Белый тигр</name>
+        <filename>@BACKGROUNDDIR@/White-Tiger.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+    <wallpaper deleted="false">
+        <name>Wind Farm</name>
+        <name xml:lang="ru">Ветряная ферма</name>
+        <filename>@BACKGROUNDDIR@/Wind-Farm.jpg</filename>
+        <options>zoom</options>
+        <pcolor>#000000</pcolor>
+        <scolor>#000000</scolor>
+        <shade_type>solid</shade_type>
+    </wallpaper>
+</wallpapers>
